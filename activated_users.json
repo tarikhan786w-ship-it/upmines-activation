@@ -1,9 +1,9 @@
 {
     "users": {
-        "ABCD-1234": {
+        "7597-7101": {
             "name": "Rahul Kumar",
-            "activation_date": "2024-01-15",
-            "expiry_date": "2025-01-15",
+            "activation_date": "2026-07-01",
+            "expiry_date": "2026-07-30",
             "notes": "Office PC"
         },
         "EFGH-5678": {
