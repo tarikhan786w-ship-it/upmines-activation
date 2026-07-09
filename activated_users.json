@@ -1,1 +1,12 @@
-
+{
+    "users": {
+        "7597-7101": {
+            "name": "Rahul Kumar",
+            "activation_date": "2026-07-01",
+            "expiry_date": "2026-12-31",
+            "notes": "Office PC"
+        }
+    },
+    "version": "1.0",
+    "last_updated": "2026-07-01"
+}
