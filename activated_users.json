@@ -1,16 +1,14 @@
 {
     "users": {
         "7597-7101": {
-            "name": "Rahul Kumar",
-            "activation_date": "2026-07-01",
-            "expiry_date": "2026-07-30",
-            "notes": "Office PC"
+            "name": "Rahul Kumar (EXPIRED)",
+            "activation_date": "2023-01-01",
+            "expiry_date": "2023-01-02",
+            "notes": "EXPIRED - Deactivated"
         },
         "EFGH-5678": {
             "name": "Priya Singh",
-            "activation_date": "2024-01-20",
-            "expiry_date": "2024-12-20",
-            "notes": "Laptop"
+            "expiry_date": "2024-12-20"
         }
     },
     "version": "1.0",
