@@ -1,16 +1,1 @@
-{
-    "users": {
-        "7597-7101": {
-            "name": "Rahul Kumar (EXPIRED)",
-            "activation_date": "2026-07-01",
-            "expiry_date": "2026-07-30",
-            "notes": "EXPIRED - Deactivated"
-        },
-        "EFGH-5678": {
-            "name": "Priya Singh",
-            "expiry_date": "2024-12-20"
-        }
-    },
-    "version": "1.0",
-    "last_updated": "2026-07-01"
-}
+
