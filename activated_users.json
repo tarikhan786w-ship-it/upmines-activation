@@ -5,8 +5,20 @@
             "activation_date": "2026-07-01",
             "expiry_date": "2026-12-31",
             "notes": "Office PC"
+        },
+        "demo": {
+            "name": "Amit Singh",
+            "activation_date": "2026-07-05",
+            "expiry_date": "2026-12-31",
+            "notes": "Laptop"
+        },
+        "demo": {
+            "name": "Priya Sharma",
+            "activation_date": "2026-07-10",
+            "expiry_date": "2026-12-31",
+            "notes": "Home PC"
         }
     },
     "version": "1.0",
-    "last_updated": "2026-07-01"
+    "last_updated": "2026-07-10"
 }
