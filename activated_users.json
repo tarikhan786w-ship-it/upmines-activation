@@ -1,23 +1,21 @@
 {
     "4618-CBEC": {
-        "4618-CBEC": {
-            "name": "AMAN GHATAMPUR",
-            "activation_date": "2026-07-12",
-            "expiry_date": "2026-08-12",
-            "notes": "Office PC"
-        },
-        " ": {
-            "name": "RAHUL",
-            "activation_date": "2026-07-09",
-            "expiry_date": "2026-12-31",
-            "notes": "Laptop"
-        },
-        "demo": {
-            "name": "Priya Sharma",
-            "activation_date": "2026-07-10",
-            "expiry_date": "2026-12-31",
-            "notes": "Home PC"
-        }
+        "name": "AMAN GHATAMPUR",
+        "activation_date": "2026-07-12",
+        "expiry_date": "2026-08-12",
+        "notes": "Office PC"
+    },
+    "RAHUL-UUID": {
+        "name": "RAHUL",
+        "activation_date": "2026-07-09",
+        "expiry_date": "2026-12-31",
+        "notes": "Laptop"
+    },
+    "demo": {
+        "name": "Priya Sharma",
+        "activation_date": "2026-07-10",
+        "expiry_date": "2026-12-31",
+        "notes": "Home PC"
     },
     "version": "1.0",
     "last_updated": "2026-07-10"
