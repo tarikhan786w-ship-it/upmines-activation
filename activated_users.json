@@ -1,6 +1,16 @@
-"4618-CBEC": {
-    "name": "AMAN GHATAMPUR",
-    "activation_date": "2026-07-12",
-    "expiry_date": "2026-08-12",
-    "notes": "Office PC"
+{
+  "users": {
+    "4618-CBEC": {
+      "name": "AMAN",
+      "activation_date": "2026-07-12",
+      "expiry_date": "2026-08-12",
+      "notes": "Office PC"
+    },
+    "A1B2-C3D4": {
+      "name": "RAHUL",
+      "activation_date": "2026-07-09",
+      "expiry_date": "2026-12-31",
+      "notes": "Laptop"
+    }
+  }
 }
