@@ -1,16 +1,7 @@
 {
-  "7597-7101": {
+  "users": {
     "7597-7101": {
-      "name": "AMAN",
-      "activation_date": "2026-09-12",
-      "expiry_date": "2026-10-05",
-      "notes": "Office PC"
-    },
-    "demo": {
-      "name": "RAHUL",
-      "activation_date": "2026-07-09",
-      "expiry_date": "2026-12-31",
-      "notes": "Laptop"
+      "expiry_date": "2027-12-31"
     }
   }
 }
